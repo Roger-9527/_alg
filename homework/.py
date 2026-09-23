@@ -1,3 +1,4 @@
+使用chatgpt
 from itertools import product
 
 # SAT Solver：使用真值表暴力搜尋
